@@ -45,6 +45,12 @@ h5 {
 section {
   margin-bottom: 30px;
 }
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
 /* HEADER */
 header .container {
   width: 1135px;
